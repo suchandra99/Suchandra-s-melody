@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/SYSTUM/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/SYSTUM/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/prashantsahlot/stargazers"><img src="https://img.shields.io/github/stars/prashantsahlot/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/prashantsahlot/SYSTUM/network/members"> <img src="https://img.shields.io/github/forks/prashantsahlot/SYSTUM?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/prashantsahlot/SYSTUM/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/SYSTUM/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/SYSTUM?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/prashantsahlot/SYSTUM/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/SYSTUM?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
    <p align="center">
@@ -68,7 +68,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/AKATSUKI_OFFICIAL_0"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
