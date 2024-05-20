@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await KING.start()
     try:
-        await KING.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await KING.stream_call("https://telegra.ph/file/c9eeac88348afc1bc9b65.jpg")
     except NoActiveGroupCall:
         LOGGER("SYSTUM").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
@@ -50,12 +50,12 @@ async def init():
         pass
     await KING.decorators()
     LOGGER("SYSTUM").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @BRANDEDKING82 JOIN @BRANDRD_BOT , @BRANDED_WORLD FOR ANY ISSUES"
+        "join @Frozensupport1 for dobuts etc"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SYSTUM").info("Stopping SYSTUM Music Bot...")
+    LOGGER("SYSTUM").info("Stopping FROZEN Music Bot...")
 
 
 if __name__ == "__main__":
