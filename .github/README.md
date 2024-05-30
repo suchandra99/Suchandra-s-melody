@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a97b0a381fa37a82b4213.jpg">
+  <img src="https://graph.org/file/4a0f51098b15a70280578.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
    <p align="center">
-     <img src="https://graph.org/file/6dbf205e018a9e7db2bad.jpg">
+     <img src="https://graph.org/file/4a0f51098b15a70280578.jpg">
      </p>
 
 <h3 align="center">
